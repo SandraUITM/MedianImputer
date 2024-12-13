@@ -1,5 +1,7 @@
 # MedianImputer
 Introduction to Function
+`MedianImputer` is an R package that provides a function to perform median imputation for missing values in numeric columns of a data frame.
+
 
 median_impute <- function(data) {
   if (!is.data.frame(data)) {
