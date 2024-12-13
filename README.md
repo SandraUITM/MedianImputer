@@ -4,11 +4,11 @@ Introduction to Function
 
 To install the package from GitHub:
 
+```
 In R
 install.packages("devtools")
 
 devtools::install_github("<your-github-username>/MedianImputer")
-```
 
 How to use in R
 library(MedianImputer)
